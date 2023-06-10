@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ## Contributions from My Work Profile
 
 [![My Work Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)](https://github.com/Amal-Fakhri)
+`![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)`
