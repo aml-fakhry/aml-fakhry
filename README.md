@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 🚀 Connect with Me on LinkedIn!
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aml-fakhri/)
 
 <!--
 **aml-fakhry/aml-fakhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 
 [![My Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aml-fakhry)](https://github.com/aml-fakhry)
 
-## Contributions from My Work Profile
+## 🔭 Contributions from My Work Profile
 
-`[![My Work Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)](https://github.com/Amal-Fakhriy)`
+You can visit this link to see Contributions [Contributions from My Work Profile](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri).
 
