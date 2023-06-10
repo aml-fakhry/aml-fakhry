@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contributions from My Current Profile
+
+[![My Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aml-fakhry)](https://github.com/aml-fakhry)
+
 ## Contributions from My Work Profile
 
-[![My Work Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)](https://github.com/Amal-Fakhri)
+[![My Work Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)](https://github.com/Amal-Fakhriy)
 
