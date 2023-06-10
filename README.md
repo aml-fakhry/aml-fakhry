@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 [![My Profile Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aml-fakhry)](https://github.com/aml-fakhry)
 
-## 🔭 Contributions Count from My Work Profile
+## 🔭 Contributions Count from My Work Profile (NARD POS)
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Amal-Fakhri)
-#### ⚡You can find me : [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.github.com/Amal-Fakhri)
+#### ⚡You can find my work profile : [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.github.com/Amal-Fakhri)
 
 
 
